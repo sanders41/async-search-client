@@ -16,7 +16,7 @@ classifiers=[
 
 [tool.poetry.dependencies]
 python = "^3.7"
-meilisearch-python-async = "^0.10.0"
+meilisearch-python-async = ">=0.10,<0.12"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

@@ -95,7 +95,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "meilisearch-python-async"
-version = "0.10.0"
+version = "0.11.0"
 description = "A Python async client for the MeiliSearch API"
 category = "main"
 optional = false
@@ -155,7 +155,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "6c4ad5618c42ce9e3482125e6db766225ac49a2d979032516aac241ce8f8fca1"
+content-hash = "ebd6414b6b320b748f86481f97ecb6ced86f26d3b5349e760bf42d79c76f0d6d"
 
 [metadata.files]
 aiofiles = [
@@ -191,8 +191,8 @@ idna = [
     {file = "idna-3.2.tar.gz", hash = "sha256:467fbad99067910785144ce333826c71fb0e63a425657295239737f7ecd125f3"},
 ]
 meilisearch-python-async = [
-    {file = "meilisearch-python-async-0.10.0.tar.gz", hash = "sha256:28e39144caec7ddc34e3bc9c92362c5e5bb22856eecb95f04816d29f96e7c39a"},
-    {file = "meilisearch_python_async-0.10.0-py3-none-any.whl", hash = "sha256:191bfb277c187e8277f77ece5ab60624b02a7a8a9e10d545e1a3517361220eb6"},
+    {file = "meilisearch-python-async-0.11.0.tar.gz", hash = "sha256:be0e1f84444d2aea26c53c1fce2d4abc6eda9111e466d0dca05cb98eb589c3e5"},
+    {file = "meilisearch_python_async-0.11.0-py3-none-any.whl", hash = "sha256:b9a91da29c603c0c739a2bcab3837773e76c673b8b045af57da91acacd66efe2"},
 ]
 pydantic = [
     {file = "pydantic-1.8.2-cp36-cp36m-macosx_10_9_x86_64.whl", hash = "sha256:05ddfd37c1720c392f4e0d43c484217b7521558302e7069ce8d318438d297739"},
